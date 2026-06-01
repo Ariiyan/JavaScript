@@ -1,1 +1,9 @@
 
+Variables
+
+const variable = "Value"
+let variable = "Value"
+var variable = "Value" // issue in block scope and fuctional scope.
+let variable; // default value will be undefined
+
+varible = "Value" // Not Allowed 
